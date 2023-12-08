@@ -1,0 +1,16 @@
+E:\uni\labos\compgr\CGLab3\CGLab3\bin\Debug\net6.0-windows\CGLab3.exe
+E:\uni\labos\compgr\CGLab3\CGLab3\bin\Debug\net6.0-windows\CGLab3.deps.json
+E:\uni\labos\compgr\CGLab3\CGLab3\bin\Debug\net6.0-windows\CGLab3.runtimeconfig.json
+E:\uni\labos\compgr\CGLab3\CGLab3\bin\Debug\net6.0-windows\CGLab3.dll
+E:\uni\labos\compgr\CGLab3\CGLab3\bin\Debug\net6.0-windows\CGLab3.pdb
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\CGLab3.Form1.resources
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\CGLab3.csproj.GenerateResource.cache
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\CGLab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\CGLab3.AssemblyInfoInputs.cache
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\CGLab3.AssemblyInfo.cs
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\CGLab3.csproj.CoreCompileInputs.cache
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\CGLab3.dll
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\refint\CGLab3.dll
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\CGLab3.pdb
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\CGLab3.genruntimeconfig.cache
+E:\uni\labos\compgr\CGLab3\CGLab3\obj\Debug\net6.0-windows\ref\CGLab3.dll
